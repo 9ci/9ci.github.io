@@ -1,4 +1,4 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:3.7
 
 RUN apk add --no-cache \
     python2 && \
@@ -9,6 +9,7 @@ RUN npm install -g gulp@3.9.1
 
 
 COPY Gemfile ./
+COPY Gemfile.lock ./
 
 RUN bundle install
 

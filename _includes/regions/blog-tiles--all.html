@@ -3,7 +3,7 @@
     {% if paginator.page == 1 %}
     {% assign count = 0 %}
     {% for post in paginator.posts %}
-    {% if count > 2 %}
+    {% if count >= 0 %}
     {% include components/tile--blog--detailed.html post=post %}
     {% endif %}
     {% assign count = count | plus:1 %}
