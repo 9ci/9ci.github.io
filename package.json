@@ -41,5 +41,8 @@
     "headroom.js": "^0.9.4",
     "hygienist-middleware": "^0.1.3",
     "slick-carousel": "^1.8.1"
+  },
+  "resolutions": {
+    "natives": "1.1.3"
   }
 }
