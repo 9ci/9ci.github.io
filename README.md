@@ -9,9 +9,16 @@ The site is built using Jekyll and Gulp with a starting point template from [Sav
 > This is free software, and you are welcome to redistribute it
 > under certain conditions; type `show c' for details.
 
-## Installation
+## Running and Building
+
+- `./dock-serve.sh` to test locally. This run the Jekyll server and won't update any configs or assets that you change. Good when when changing content and getting live preview but if adding to \_assets you need to run the gulp build to get them in right place.
+- `./dock-build.sh` run this after making changes and before doing a git push. This does the gulp build and runs all the scripts to deal with assets, sass, etc to get things setup for jekyll to deploy the site.
+- `./dock-gulp-serve.sh` this will do a serve and watch for everything runs slower and eats up memory but will do livereload as your changing assets.
+
+## Local Installation (docker above recomended)
 
 ### Install dependencies
+Or to do it locally these are the rough steps to get it working
 
 1. [Bundler](http://bundler.io): `gem install bundler`
 2. [Jekyll](http://jekyllrb.com/docs/installation/): `gem install jekyll`
@@ -28,7 +35,7 @@ The site is built using Jekyll and Gulp with a starting point template from [Sav
 3. Run `bundle install` (or `bundle install --path vendor/bundle` if preferred)
 4. Run `npm install` to install node modules. This takes a few minutes.
 
-## Local development
+## Local development (docker is recomended)
 
 To serve the site, run `gulp serve`. If you do not have Gulp installed locally
 then you can install it globally via `npm install -g gulp`. This uses the test
