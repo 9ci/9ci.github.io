@@ -8,5 +8,7 @@
 #  url: /articles
 - title: Company
   url: /company
+- title: Blog
+  url: /articles
 - title: Contact
   url: /contact
