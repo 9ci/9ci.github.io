@@ -39,7 +39,7 @@ exclude: ["_pages/results.html", "vendor",
           "package.json",
           "hologram_config.yml"]
 
-permalink: /article/:title
+permalink: /articles/:title
 
 # Collections
 collections:
