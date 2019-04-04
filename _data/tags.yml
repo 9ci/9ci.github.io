@@ -1,10 +1,22 @@
 # For now, if you add a tag you also need to add an empty
 # template in /blog/tag.
 
+- slug: ai
+  name: Artificial Intelligence
 - slug: event
   name: Event
 - slug: productivity
   name: Productivity
+- slug: autocash
+  name: Autocash
+- slug: lockbox
+  name: Lockbox
+- slug: cashapply
+  name: CashApply
+- slug: ar-dashboard
+  name: AR Dashboard
+- slug: collection-calculation
+  name: Collection Calculation
 - slug: best-practices
   name: Best Practices
 - slug: design
@@ -13,7 +25,3 @@
   name: Payment Processing
 - slug: performance
   name: Performance
-- slug: user-experience
-  name: User Experience
-- slug: legacy-systems-integration
-  name: Legacy Systems Integration

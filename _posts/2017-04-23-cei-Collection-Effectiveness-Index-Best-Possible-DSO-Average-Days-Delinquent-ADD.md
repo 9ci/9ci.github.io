@@ -3,9 +3,9 @@ layout: post
 title: Are you collecting your invoices effectively?
 date: 2017-04-24
 author: Joshua Burnett
-tags:  AR Collections DSO Get-Paid-Faster Collection Effectiveness Index CEI
-summary: Collection Effectiveness Index
-featured_image: "/blog/dso_calc1.gif"
+tags:  ar-dashboard collection-calculation
+summary: In light of the fact that DSO alone does not accurately measure performance in credit and collection, we can now arm ourselves with 2 more indicators for accurately measuring performance; CEI (Collection Effectiveness Index) and ADD (Average Days Delinquent)
+featured_image: "/blog/cei.png"
 featured_image_alt: "Many devices testing responsive"
 featured_image_height: "400px"
 featured_image_width: "800px"
@@ -20,8 +20,6 @@ DSO is not the most accurate way to indicate if you are collecting effectively. 
 ### Collection Effectiveness Index
 The Collection Effectiveness Index (CEI) is becoming increasing popular in the credit and collections world. CEI was developed by Dr. Venkat Srinivasan and the Credit Research Foundation [Link](http://www.crfonline.org/orc/ca/ca-7.html){:target="_blank"}.  With the [Credit Research Foundation](http://www.crfonline.org){:target="_blank"} collecting statistics, it is also possible to do the same industry benchmarking and comparisons that you might do with DSO.  CEI is a percentage that expresses the effectiveness of collection efforts over time. The closer to 100 percent, the more effective the collection effort. CEI is ratio that measures the quality of collection efforts over time.  It is essentially the percentage of receivables closed or paid in a given time period. While “Percent Current” has a implied limit of 100%, this is not the case for CEI.
 
-Note: for a definition of credit sales see [this post](http://www.greenbill.com/2009/03/dso_calculation/){:target="_blank"}.
-
 CEI is a more appropriate measure of performance over time while DSO is for measuring performance at a single point in time. CEI makes comparison with other companies possible  just as DSO does. CEI does not change if a company nets their receivables by removing items they deem disputed and therefore un-collectible.
 
 CEI and DSO should move in opposite directions which makes sense. If your collections efforts increase your DSO should decrease. DSO and CEI can, under certain write off and revenue conditions again, track the same way and thus we have another exception.
@@ -34,16 +32,13 @@ The closer your DSO is to the Best Possible DSO, the closer you are to collectin
 
 ```Best Possible DSO = (Current Receivables x Number of Days in Period ) / Credit Sales for Period```
 
-(for a definition of credit sales see [this post](http://www.greenbill.com/2009/03/dso_calculation/){:target="_blank"}.
+(for a definition of credit sales see [this post](/2017-04-24-dso-calculation-days-sales-outstanding.md){:target="_blank"}.
 
 ### Average Days Delinquent (ADD)
 Average Days Delinquent (ADD), which is sometimes called Delinquent DSO, calculates the average time from the due date to the paid date. In other words its the average days invoices are past due. It provides a snapshot to evaluate the overall company’s collection performance but it’s also useful at the customer, customer type, collector segment, etc.. This not the same as Average Days To Pay which is based on the historical information of the actual closed invoice while ADD is based on a snapshot in time (Thanks [Terry](http://crfonline.org){:target="_blank"}.)
 
 ```Average Days Delinquent (ADD) = Standard DSO - Best Possible DSO```
 
-### Example
-<img class="”aligncenter" title="”dso_charts1″" src="”http://www.greenbill.com/wp-content/uploads/2009/03/dso_charts1.gif”" alt="”dso_charts1″" width="549" height="340" />
-<p style="”text-align:"></p>
 
 ### Summary
 In light of the fact that DSO alone does not accurately measure performance in credit and collection, we can now arm ourselves with 2 more indicators for accurately measuring performance; CEI and ADD.  When CEI and DSO track the same way because of revenue fluctuation or changed in terms of sale ADD comes to the rescue and takes both into account.

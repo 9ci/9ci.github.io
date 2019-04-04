@@ -2,9 +2,9 @@
 layout: post
 title: Autocash Lockbox Processing
 date: 2017-04-24
-author: Joshua Burnett
-tags:  Autocash Lockbox CashApply Bank bankFiles BAI BAI2 EDI
-summary: Autocash Lockbox Processing
+author: 9ci Team
+tags:  autocash lockbox cashapply
+summary: Autocash Lockbox Processing. Standard bank file formats BAI. BAI2, difference between EDI820 and EDI823
 featured_image: "/blog/lockbox.png"
 featured_image_alt: "Lockbox"
 featured_image_height: "400px"
@@ -14,7 +14,7 @@ featured_image_width: "800px"
 
 A service offered by banks to companies in which the company receives payments by mail to a post office box and the bank picks up the payments several times a day, deposits them into the company's account, and notifies the company of the deposit. Data entry clerks at the bank manually enter the information into an electronic file for transmission to the company to which the lockbox account belongs. These files are typically transferred nightly to the various lockbox owners (companies).  The files adhere to one of two standard banking industry transmission formats: BAI, BAI2, EDI820 and EDI 823.This enables the company to put the money to work as soon as it's received.
 
-### Why use  Lockboxes ?
+### Why use Lockboxes ?
 
 Lockbox process has several advantages:
 
