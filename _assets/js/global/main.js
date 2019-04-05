@@ -34,18 +34,15 @@ $(document).ready(
         });
     });
 
-// TYPED.js
-$(document).ready(
-    function () {
-        var typed3 = new Typed('#home__cover__heading', {
-            strings: ['My strings are: <i>strings</i> with', 
-            'My strings are: <strong>HTML</strong>', 'My strings are: Chars &times; &copy;'],
-            typeSpeed: 0,
-            backSpeed: 0,
-            smartBackspace: true, // this is a default
-            loop: true
-        });
+$(document).ready( function() {
+    var typed3 = new Typed('#typed', {
+      stringsElement: '#typed-strings',
+      typeSpeed: 60,
+      backSpeed: 40,
+      startDelay: 500,
+      loop: true
     });
+});
 
 // Functions for blog posts.
 $(document).ready(
