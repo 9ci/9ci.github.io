@@ -34,6 +34,16 @@ $(document).ready(
         });
     });
 
+$(document).ready( function() {
+    var typed3 = new Typed('#typed', {
+      stringsElement: '#typed-strings',
+      typeSpeed: 60,
+      backSpeed: 40,
+      startDelay: 500,
+      loop: true
+    });
+});
+
 // Functions for blog posts.
 $(document).ready(
     function () {

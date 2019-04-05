@@ -46,7 +46,8 @@ var paths          = require('./_assets/gulp_config/paths');
 gulp.task('build:scripts:npmcopy', function () {
     return gulp.src(
             [
-                'node_modules/slick-carousel/slick/slick.min.js'
+                'node_modules/slick-carousel/slick/slick.min.js',
+                'node_modules/typed.js/lib/typed.min.js'
             ])
             .pipe(gulp.dest(paths.jsFiles + '/global/lib'));
 });
