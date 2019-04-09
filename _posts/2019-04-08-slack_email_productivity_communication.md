@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slack - Reply To All killer. 
+title: Slack - raplacement to "Reply To All" emails
 date: 2019-04-08
 author: Joanna Dabal
 tags: productivity
