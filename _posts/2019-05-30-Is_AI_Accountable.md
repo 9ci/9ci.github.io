@@ -3,7 +3,7 @@ layout: post
 title: Is AI Accountable?
 date: 2019-05-30
 author: John Kuhn
-tags: AI
+tags: ai
 summary: Is AI Accountable?  Can we understand why AI does what it does?
 featured_image: "/blog/ai.png"
 featured_image_alt: "AI"
