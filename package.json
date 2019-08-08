@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:9ci/9ci.github.io.git"
   },
-  "author": "9ci <info@9ci.com>",
+  "author": "9ci <connection@9ci.com>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
