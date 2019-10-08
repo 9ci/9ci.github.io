@@ -65,3 +65,10 @@ gems:
 #  - jekyll-picture-tag
   - jemoji
 # - jekyll-twitter-plugin
+
+# Add for default for og:image meta tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/img/logo.svg"
