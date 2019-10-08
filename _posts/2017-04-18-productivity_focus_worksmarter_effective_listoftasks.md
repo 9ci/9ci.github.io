@@ -2,7 +2,6 @@
 layout: post
 title: Productivity Driver
 date: 2017-04-24
-author: Joanna Dabal
 tags: productivity
 summary: Don't stay late hours at work, get your stuff done on time and don't be distracted by everything going on. Creating list of tasks as one of the most effective solutions to be productive. 
 image: "/blog/productivity.png"
