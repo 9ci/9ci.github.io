@@ -3,7 +3,7 @@ layout: post
 title: Autocash Lockbox Processing
 date: 2017-04-24
 author: 9ci Team
-tags:  autocash lockbox cashapply
+tags:  autocash lockbox
 summary: Autocash Lockbox Processing. Standard bank file formats BAI. BAI2, difference between EDI820 and EDI823
 featured_image: "/blog/lockbox.png"
 featured_image_alt: "Lockbox"

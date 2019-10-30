@@ -1,9 +1,9 @@
 ---
 layout: post
 title: AI
-date: 2017-04-24
+date: 2018-01-19
 author: John Kuhn
-tags:  ai
+tags: ai
 summary: Artificial Intelligence. Difference between Rule-based AI and Machine Learning
 featured_image: "/blog/ai-machine-learning.png"
 featured_image_alt: "AI"
