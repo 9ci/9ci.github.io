@@ -22,7 +22,8 @@ Current AI, as implemented in neural nets, relies on statistics, so domain knowl
 
 Any AR/credit decision must be accountable.  It’s not sufficient for the AI just to deliver a “correct” answer.  We need to be able to understand and justify the decision. 
 
-One step for any business toward addressing these challenges is collaboration at two levels.   At the system level, working with domain knowledge experts, who have experience injecting AR subject matter into the AI model, who have access to large industry wide data sets that can be used to ensure productive training and who understand the current limits of any AI model and can design the overall process accordingly.  And at the implementation level, structuring the AI to work collaboratively with a human partner, so each can perform to their respective strengths synergistically and thereby achieve a more productive work environment.   
+One step for any business toward addressing these challenges is collaboration at two levels.   At the system level, working with domain knowledge experts, who have experience injecting AR subject matter into the AI model, who have access to large industry wide data sets that can be used to ensure productive training and who understand the current limits of any AI model and can design the overall process accordingly.  And at the implementation level, structuring the AI to work collaboratively with a human partner, so each can perform to their respective strengths synergistically and thereby achieve a more productive work environment.  
+ 
 
  
 
