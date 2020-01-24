@@ -1,9 +1,5 @@
-#first build docker (if still not published): docker build --tag=9cigithubio . 
-
-
-
 #!/usr/bin/env bash
-
+#first build docker (if still not published): docker build --tag=9cigithubio .scripts/. 
 set -e
 
 #for local runs put your docker name

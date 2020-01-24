@@ -10,7 +10,7 @@ The site is built using Jekyll and Gulp with a starting point template from [Sav
 > under certain conditions; type `show c' for details.
 
 ## Running and Building
-
+- first build docker (if still not published): `docker build -t 9cigithubio .`
 - `./dock-serve.sh` to test locally. This run the Jekyll server and won't update any configs or assets that you change. Good when when changing content and getting live preview but if adding to \_assets you need to run the gulp build to get them in right place.
 - `./dock-build.sh` run this after making changes and before doing a git push. This does the gulp build and runs all the scripts to deal with assets, sass, etc to get things setup for jekyll to deploy the site.
 - `./dock-gulp-serve.sh` this will do a serve and watch for everything runs slower and eats up memory but will do livereload as your changing assets.
