@@ -2,7 +2,6 @@
 layout: post
 title: Productivity Driver
 date: 2017-04-24
-author: Joanna Dabal
 tags: productivity
 summary: Don't stay late hours at work, get your stuff done on time and don't be distracted by everything going on. Creating list of tasks as one of the most effective solutions to be productive. 
 image: "/assets/img/blog/productivity.png"
@@ -11,6 +10,7 @@ featured_image_alt: "list of tasks"
 featured_image_height: "400px"
 featured_image_width: "800px"
 ---
+
 ## Productivity
 
 No matter what industry you’re in, your employer (or client) expects your work to be done on time. Your plan is to be productive, focused on work and don’t work late hours. Sometimes it’s just not your day, you are distracted by everything going on, too many issues, too many tasks close to the deadline and in result nothing is done. Other days you come in and knock out everything you had to do. Unfortunately these days don’t happen so often. 
