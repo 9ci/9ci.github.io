@@ -5,7 +5,8 @@ date: 2017-04-24
 author: Joshua Burnett
 tags:  ar-dashboard collection-calculation
 summary: In light of the fact that DSO alone does not accurately measure performance in credit and collection, we can now arm ourselves with 2 more indicators for accurately measuring performance; CEI (Collection Effectiveness Index) and ADD (Average Days Delinquent)
-featured_image: "/blog/cei.png"
+image: "/assets/img/blog/cei.jpg"
+featured_image: "/blog/cei.jpg"
 featured_image_alt: "Many devices testing responsive"
 featured_image_height: "400px"
 featured_image_width: "800px"

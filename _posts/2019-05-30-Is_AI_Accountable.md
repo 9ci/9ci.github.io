@@ -5,7 +5,8 @@ date: 2019-05-30
 author: John Kuhn
 tags: ai
 summary: Is AI Accountable?  Can we understand why AI does what it does?
-featured_image: "/blog/ai.png"
+image: "/assets/img/blog/ai.jpg"
+featured_image: "/blog/ai.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"

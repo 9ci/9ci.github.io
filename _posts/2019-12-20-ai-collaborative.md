@@ -5,7 +5,8 @@ date: 2019-12-20
 author: John Kuhn
 tags:  ai
 summary: Artificial Intelligence. Collaborative AI 
-featured_image: "/blog/ai.png"
+image: "/assets/img/blog/ai.jpg"
+featured_image: "/blog/ai.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"

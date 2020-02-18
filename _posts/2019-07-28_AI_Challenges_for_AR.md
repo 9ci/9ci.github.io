@@ -5,7 +5,8 @@ date: 2019-07-28
 author: John Kuhn
 tags: ai
 summary: Statistics, learning data, what else is needed for AR
-featured_image: "/blog/ai.png"
+image: "/assets/img/blog/ai.jpg"
+featured_image: "/blog/ai.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"

@@ -5,7 +5,8 @@ date: 2019-09-14
 author: John Kuhn
 tags: ai
 summary: Automation tools and AI agents allow to complete repetitive tasks performed by cash appliers
-featured_image: "/blog/ai.png"
+image: "/assets/img/blog/ai.jpg"
+featured_image: "/blog/ai.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"

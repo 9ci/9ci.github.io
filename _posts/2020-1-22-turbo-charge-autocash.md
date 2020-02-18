@@ -4,7 +4,8 @@ title: Turbo Charge Your Cash Appliers – Quickly and Simply
 date: 2020-1-22
 tags: autocash
 summary: Turbo Charge Your Cash Appliers – Quickly and Simply 
-featured_image: "/blog/lockbox.png"
+image: "/assets/img/blog/lockbox.jpg"
+featured_image: "/blog/lockbox.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"

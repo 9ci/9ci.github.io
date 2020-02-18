@@ -5,7 +5,8 @@ date: 2019-04-08
 author: Joanna Dabal
 tags: productivity
 summary: Slack is the app that changed communication in our company.
-featured_image: "/blog/replytoall.png"
+image: "/assets/img/blog/replytoall.jpg"
+featured_image: "/blog/replytoall.jpg"
 featured_image_alt: "Reply To All"
 featured_image_height: "400px"
 featured_image_width: "800px"

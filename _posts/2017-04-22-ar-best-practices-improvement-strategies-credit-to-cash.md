@@ -5,7 +5,8 @@ date: 2017-04-24
 author: 9ci Team
 tags:  ar-dashboard collection-calculation
 summary: Best practices, AR improvement strategies, "credit to cash" cycle success
-featured_image: "/blog/ar.png"
+image: "/assets/img/blog/ar.jpg"
+featured_image: "/blog/ar.jpg"
 featured_image_alt: "AR"
 featured_image_height: "400px"
 featured_image_width: "800px"

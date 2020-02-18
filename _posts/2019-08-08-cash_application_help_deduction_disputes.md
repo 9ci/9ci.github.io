@@ -5,7 +5,8 @@ date: 2019-08-08
 author: Joanna Dabal
 tags: autocash
 summary: Automatic deduction processing during cash application. Documents attachments.
-featured_image: "/blog/documents.png"
+image: "/assets/img/blog/documents.jpg"
+featured_image: "/blog/documents.jpg"
 featured_image_alt: "Attachments"
 featured_image_height: "400px"
 featured_image_width: "800px"
