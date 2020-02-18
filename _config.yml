@@ -134,8 +134,8 @@ picture:
         width: "400"
         
 # Add for default for og:image meta tag
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: "/assets/img/logo.svg"
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: "/assets/img/logo.svg"
