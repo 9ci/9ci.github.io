@@ -2,6 +2,7 @@
 layout: post
 title: Turbo Charge Your Cash Appliers – Quickly and Simply 
 date: 2020-1-22
+author: John Kuhn
 tags: autocash ai
 summary: Turbo Charge Your Cash Appliers – Quickly and Simply 
 image: "/assets/img/blog/relaxedcashapplier.jpg"
