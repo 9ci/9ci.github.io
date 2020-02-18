@@ -5,8 +5,8 @@ date: 2019-06-15
 author: John Kuhn
 tags: ai
 summary: Is pattern recognition enough or statistical correlation for business application?
-image: "/assets/img/blog/ai.jpg"
-featured_image: "/blog/ai.jpg"
+image: "/assets/img/blog/aiinbusiness.jpg"
+featured_image: "/blog/aiinbusiness.jpg"
 featured_image_alt: "AI"
 featured_image_height: "100px"
 featured_image_width: "200px"
