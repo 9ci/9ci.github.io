@@ -21,7 +21,7 @@ There are many studies on productivity, books on key drivers to help you being p
 
 Set the list of tasks, make sure to break them into the smallest chunks as possible. Keep your list as check list that is grouped into bigger tasks. Set a timer for half an hour and focus on one thing at a time. While working on your single task turn off your email notifications, you don’t want to loose your focus. Take a break after 30 min, you can walk around, talk to someone or just simply check emails. If you finish earlier give yourself a reward and take a longer break. 
 
-After couple hours you should see some tasks completed and it motivates you to continue working on remaining tasks. Don’t believe in multitasking or jumping from task to task just to touch on everything. At the end of the day you will be tired, forget most of the things you did (or planned to do) and next day you would have to start from the beginning. 
+After couple hours you should see some tasks completed and it motivates you to continue working on the remaining tasks. Don’t believe in multitasking or jumping from task to task just to touch on everything. At the end of the day you will be tired, forget most of the things you did (or planned to do) and next day you would have to start from the beginning. 
 
 It’s not easy to put a detailed list for yourself. Very often you just put main bullets and keep details in your head. Writing down detailed check list helps you to think strategically and organize your work. Spending couple extra minutes first saves time later and gives you reward seeing checked items at the end of the day. 
 
