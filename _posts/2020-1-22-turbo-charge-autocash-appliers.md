@@ -2,17 +2,18 @@
 layout: post
 title: Turbo Charge Your Cash Appliers – Quickly and Simply 
 date: 2020-1-22
-tags: autocash
+tags: autocash ai
 summary: Turbo Charge Your Cash Appliers – Quickly and Simply 
-image: "/assets/img/blog/lockbox.jpg"
-featured_image: "/blog/lockbox.jpg"
-featured_image_alt: "AI"
+image: "/assets/img/blog/relaxedcashapplier.jpg"
+featured_image: "/blog/relaxedcashapplier.jpg"
+featured_image_alt: "Cash Applier"
 featured_image_height: "100px"
 featured_image_width: "200px"
 ---
 
+### AI in OCR engines
 
-##### In today’s world, the emergence of AI and cloud computing presents a remarkable opportunity.  Deep learning AI has made OCR engines much more affordable and flexible.  No more templates and zones.  And the accessibility of cloud computing minimizes IT involvement.  Consider this scenario: 
+In today’s world, the emergence of AI and cloud computing presents a remarkable opportunity.  Deep learning AI has made OCR engines much more affordable and flexible.  No more templates and zones.  And the accessibility of cloud computing minimizes IT involvement.  Consider this scenario: 
 
 1. Place your lockbox file with check images, exactly as received from the bank, in a directory on your existing AR system 
 2. A small cloud interface agent picks up the file and moves it to the cloud 
