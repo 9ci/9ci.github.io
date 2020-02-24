@@ -4,7 +4,7 @@ title: Turbo Charge Your Cash Appliers – Quickly and Simply
 date: 2020-1-22
 author: John Kuhn
 tags: autocash ai
-summary: Turbo Charge Your Cash Appliers – Quickly and Simply 
+summary: Deep learning AI has made OCR engines much more affordable and flexible.  No more templates and zones.
 description: Deep learning AI has made OCR engines much more affordable and flexible.  No more templates and zones. 
 image: "/assets/img/blog/relaxedcashapplier.jpg"
 featured_image: "/blog/relaxedcashapplier.jpg"
