@@ -22,4 +22,6 @@ You don't have to handle slack like you do with emails, slack handles itself.
 
 Slack is so popular in many organizations that it became a verb itself. Quick question that needs a fast answer can be *slacked*  without big email structure like "Hi John ... Thank you ... Signature ...". Slack is more like dialogue not a letter. Slack me, slack it to me,  call me on slack, share screen on slack, etc. It sounds cool but it can be very distracting; you have to be smart how ofen you allow others to slack you, you don't want to be getting pop ups and beeps on your computer or phone all the time. Slack was supposed to improve your productivity. During your focus time use do not disturb option so others will be aware and not checking every minute with you if you got it. 
  
-Slack is the best option for teams of any size. We slack each other if we sit across the room or across the globe. Team collaboration is finally organized and searchable. It is fun to chat with your coworkers. Thank you Slack for productive way of communicating with others and killing "reply to all" email nightmare.
+Slack is the best option for teams of any size. We slack each other if we sit across the room or across the globe. Team collaboration is finally organized and searchable. It is fun to chat with your coworkers. 
+
+Thank you Slack for productive way of communicating with others and killing "reply to all" email nightmare.
