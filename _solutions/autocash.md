@@ -10,7 +10,7 @@ icon: "products/autocash.png"
 vertical_image: | 
     linear-gradient( 0deg, #013A5E, rgba(0, 15, 31, 0.2) ), url('/assets/img/services/cash-ai-brain.jpg') calc(80% + 150px) center / 35% #013A5E
 vertical_image_alt: "Automation"
-quote_project: honeywell
+quote_project: tti
 bullets: [ "Our software 'learns' your customer’s payment patterns",
   Our system matches invoices to checks like your most experienced applier,
   You can set flexible business rules by class or customer,
