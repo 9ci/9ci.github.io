@@ -13,8 +13,6 @@ featured_image_height: "100px"
 featured_image_width: "200px"
 ---
 
-
-
 Everyone utilizes lockbox check images to help apply customer payments accurately.  But if your AR system doesn’t help you manage them, your cash appliers can spend significantly more time than needed accessing and maintaining them.
 
 Lockbox check images are generally delivered three ways:
