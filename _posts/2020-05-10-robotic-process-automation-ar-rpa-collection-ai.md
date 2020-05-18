@@ -3,7 +3,7 @@ layout: post
 title: RPA - Robotic Process Automation
 date: 2020-05-10
 author: John Kuhn
-tags: autocash ai collection
+tags: ai collection
 summary: How RPA can benefit your productivity
 description: How RPA can benefit your productivity
 image: "/assets/img/blog/rpa.jpg"

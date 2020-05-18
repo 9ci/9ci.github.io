@@ -3,7 +3,7 @@ layout: post
 title: AI Challenges for AR
 date: 2020-05-18
 author: John Kuhn
-tags: autocash ai collection
+tags: ai collection
 summary: AI Challenges for AR
 description: AI Challenges for AR
 image: "/assets/img/blog/aichallenges.jpg"
