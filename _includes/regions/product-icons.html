@@ -1,12 +1,12 @@
-<div class="region--service-icons region">
+<!-- <div class="region--service-icons region">
   <div class="icon--service icon--service--subtle">
     <a href="/solutions/ocr/" class="icon--service__link">
       <div class="icon--service__image">
         <img src="/assets/img/icons-and-logos/products/ocr.svg" alt="Intelligent OCR">
       </div>
-      <p class="icon--service__title">Intelligent OCRR</p>
+      <p class="icon--service__title">Intelligent OCR</p>
     </a>
-  </div>
+  </div> -->
   {% assign items = site.solutions | sort: 'weight' %}
   {% for item in items %}
   	{% include components/icon--service.html item=item class=include.class %}
