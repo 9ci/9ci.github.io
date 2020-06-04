@@ -56,7 +56,29 @@
     //background: $primary-color;
     //display: flex;
   }
+  .region--hero__image {
+    display: none;
+  }
 
+}
+
+  .region--hero--ocr {
+  //background-image: url('/assets/img/bg/solutions-hero.jpg');
+  //background-position: 10% center;
+  background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.2) ),
+      url('/assets/img/bg/ocr-hero.jpg') no-repeat $accent-color;
+  background-position:top;
+  background-size:cover;
+
+  @include grid-media($large-screen-up) {
+    background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.9) ),
+    url('/assets/img/bg/ocr-hero.jpg') no-repeat $accent-color;
+    background-size:60%;
+    background-position:top right;
+    //align-items: center;
+    //background: $primary-color;
+    //display: flex;
+  }
   .region--hero__image {
     display: none;
   }
