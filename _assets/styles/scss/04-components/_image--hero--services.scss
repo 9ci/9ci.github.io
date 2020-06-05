@@ -4,7 +4,7 @@
  * Hero image styles.
  */
 
-.region--hero--services, .region--hero--solutions {
+.region--hero--services, .region--hero--solutions, .region--hero--ocr {
   background-color: $primary-color;
   margin: 0;
 
@@ -62,7 +62,7 @@
 
 }
 
-  .region--hero--ocr {
+.region--hero--ocr {
   //background-image: url('/assets/img/bg/solutions-hero.jpg');
   //background-position: 10% center;
   background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.2) ),
