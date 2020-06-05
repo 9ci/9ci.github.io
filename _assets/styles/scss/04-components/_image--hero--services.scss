@@ -48,9 +48,9 @@
   background-size:cover;
 
   @include grid-media($large-screen-up) {
-    background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.9) ),
+    background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.6) ),
     url('/assets/img/bg/solutions-hero.jpg') no-repeat $accent-color;
-    background-size:60%;
+    background-size:50%;
     background-position:top right;
     //align-items: center;
     //background: $primary-color;
@@ -71,9 +71,9 @@
   background-size:cover;
 
   @include grid-media($large-screen-up) {
-    background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.9) ),
+    background: linear-gradient( to right,  transparentize($accent-color, 0) , transparentize($accent-color, 0.4) ),
     url('/assets/img/bg/ocr-hero.jpg') no-repeat $accent-color;
-    background-size:60%;
+    background-size:50%;
     background-position:top right;
     //align-items: center;
     //background: $primary-color;
