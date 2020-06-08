@@ -3,7 +3,7 @@ layout: post
 title: Collection Metrics – Collection Efficiency Index
 date: 2020-06-08
 author: John Kuhn
-tags: ai collection
+tags: ar-dashboard collection-calculation collection
 summary: Collection Metrics – Collection Efficiency Index
 description: Collection Metrics – Collection Efficiency Index
 image: "/assets/img/blog/ceiimage.jpg"
