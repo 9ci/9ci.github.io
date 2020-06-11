@@ -4,7 +4,7 @@ title: The DSO Calculation (Days Sales Outstanding)
 date: 2017-04-24
 author: Joshua Burnett
 tags:  ar-dashboard collection-calculation
-summary: DSO, Days Sales Outstanding Calculation as number to measure the efficiency of your collections.
+summary: DSO, Days Sales Outstanding Calculation as number to measure the efficiency of your collections. Example for AR Scenario.
 description: DSO, Days Sales Outstanding Calculation as number to measure the efficiency of your collections.
 image: "/assets/img/blog/dso_charts1.jpg"
 featured_image: "/blog/dso_charts1.jpg"

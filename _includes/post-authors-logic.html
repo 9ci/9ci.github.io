@@ -7,7 +7,7 @@
 {% capture author_markup %}{{ author_markup }}
 <div class="post-author">
   <picture><img src="/assets/img/team/{{ person.slug }}/{{ person.slug }}-square-outside.jpg" itemprop="image" alt="{{ person.name }}"></picture>
-  <p class="post-author__name">{{ author_string_prefix }}{{ author_link }}</p>
+  <p class="post-author__name">{{person.name}}</p>
   <p class="post-author__title">{{ person.job_title }}</p>
 </div>
 {% endcapture %}
@@ -20,7 +20,7 @@
 {% capture author_markup %}{{ author_markup }}
 <div class="post-author">
   <picture><img src="/assets/img/team/team-former/{{ person.slug }}/{{ person.slug }}-square-outside.jpg" itemprop="image" alt="{{ person.name }}"></picture>
-  <p class="post-author__name">{{ author_string_prefix }}{{ author_link }}</p>
+  <p class="post-author__name">{{ person.name}}</p>
   <p class="post-author__title">{{ person.title }}</p>
 </div>
 {% endcapture %}

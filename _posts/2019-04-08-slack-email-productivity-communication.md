@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Slack - raplacement to "Reply To All" emails
+title: Slack - raplacement to Reply To All emails. Workplace communication
 date: 2019-04-08
 author: Joanna Dabal
 tags: productivity
-summary: Slack is the app that changed communication in our company.
+summary: Slack is the app that changed communication in our company.  It improved communication in our workplace and replaced not efficient group emails
 image: "/assets/img/blog/replytoall.jpg"
 featured_image: "/blog/replytoall.jpg"
 featured_image_alt: "Reply To All"

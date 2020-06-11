@@ -4,7 +4,7 @@ title: Are you collecting your invoices effectively?
 date: 2017-04-24
 author: Joshua Burnett
 tags:  ar-dashboard collection-calculation
-summary: In light of the fact that DSO alone does not accurately measure performance in credit and collection, we can now arm ourselves with 2 more indicators for accurately measuring performance; CEI (Collection Effectiveness Index) and ADD (Average Days Delinquent)
+summary: DSO alone does not accurately measure performance in credit and collection, 2 more indicators for accurately measuring performance are CEI and ADD
 image: "/assets/img/blog/cei.jpg"
 featured_image: "/blog/cei.jpg"
 featured_image_alt: "Many devices testing responsive"

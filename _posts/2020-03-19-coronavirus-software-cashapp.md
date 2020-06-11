@@ -19,7 +19,7 @@ Is the coronavirus and the new telework reality killing your cash app productivi
 
 We bring your lockboxes in overnight. Using OCR and our proprietary AI based algorithms, we’ll match your customer’s checks and remittance advice to your open items. Partial invoice numbers, or alternate numbers, such as PO numbers, are no problem. The system is configured to automatically handle common exceptions:
 
-- Shortpays
+- Short pays
 - Overpays
 - Discounts
 - Deductions

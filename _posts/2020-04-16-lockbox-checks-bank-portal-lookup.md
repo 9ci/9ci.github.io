@@ -4,8 +4,8 @@ title: Lockbox Check Images – How To Manage Them
 date: 2020-4-16
 author: John Kuhn
 tags: autocash
-summary: Check images should be delivered with the bank lockbox file and AR system should process them along with the other bank payment data and immediately associate each check image with its corresponding payment.
-description: Check images should be delivered with the bank lockbox file and AR system should process them along with the other bank payment data and immediately associate each check image with its corresponding payment.
+summary: Check images should be delivered with the bank lockbox file so AR system can immediately associate each check image with its corresponding payment.
+description: Check images should be delivered with the bank lockbox file so AR system can immediately associate each check image with its corresponding payment.
 image: "/assets/img/blog/lokboxcheckmanage.jpg"
 featured_image: "/blog/lokboxcheckmanage.jpg"
 featured_image_alt: "Lockbox Check"
