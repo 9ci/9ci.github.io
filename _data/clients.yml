@@ -19,7 +19,7 @@
 - project: rand
   name: Mike Pettyjohn
   title: Director, Corporate Credit and Collections and Customer Service, Rand McNally
-  image: /assets/img/customers/Rand-McNally-Official-Logo.png
+  image: /assets/img/customers/people/rand.jpg
   quote: |
     Before 9ci, we spent more time gathering information, and now we spend more time analyzing it.
     I know you hear that over and over again with all the ERP marketing, but it’s absolutely true in our
@@ -64,7 +64,7 @@
 - project: interior
   name: Don Shannon
   title: Principal - Interior Investments, LLC
-  image: /assets/img/work/clients/interiorinvest.png
+  image: /assets/img/customers/interiorinvest.png
   quote: |
     9ci's system eliminated our antiquated manual systems and offline spreadsheets and provided our
     collection professionals and supervisors with timely, accurate and usable real time data.
