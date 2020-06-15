@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productivity Driver. List of tasks to get you going.
+title: Productivity Driver | List of tasks to get you going
 date: 2017-04-24
 tags: productivity
 author: Joanna Dabal

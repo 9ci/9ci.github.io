@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Disputes & Deductions Management
+title: Disputes & Deductions Management service
 slug: disputes
 weight: 3
 summary: |

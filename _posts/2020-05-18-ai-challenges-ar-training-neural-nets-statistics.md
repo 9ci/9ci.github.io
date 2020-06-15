@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Challenges for AR
+title: AI Challenges for Accounts Receivables
 date: 2020-05-18
 author: John Kuhn
 tags: ai collection

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Collections Management
+title: Intelligent Receivables and Collections Management
 slug: collections
 weight: 2
 summary: |

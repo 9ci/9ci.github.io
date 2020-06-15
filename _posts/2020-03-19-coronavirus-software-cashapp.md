@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coronavirus killing your cash app prodctivity
+title: Coronavirus killing your cash app productivity
 date: 2020-3-19
 author: John Kuhn
 tags: autocash productivity ai
@@ -13,7 +13,7 @@ featured_image_height: "100px"
 featured_image_width: "200px"
 ---
 
-## Coronavirus killing your cash app prodctivity?
+## Coronavirus killing your cash app productivity?
 
 Is the coronavirus and the new telework reality killing your cash app productivity? You need to leverage technology to keep your head above water. With 9ci’s AI-driven cash application, you can get the productivity boost you need while your staff works from home.
 

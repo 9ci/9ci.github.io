@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collaborative AI 
+title: Collaborative AI in Collections Three-pronged strategy
 date: 2019-12-20
 author: John Kuhn
 tags:  ai

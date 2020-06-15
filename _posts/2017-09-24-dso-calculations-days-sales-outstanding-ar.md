@@ -34,7 +34,7 @@ They generated invoices with Net 30 day terms (customer has 30 days to pay) for 
 During the month they got payments on invoices of $500.
 So $700+$1000-$500=$1200 for their accounts receivable at the end of June. 700 that was still open + $1000 in new invoices – $500 in payments
 
-NOTE: it does not matter what invoices the $500 got applied to or even if it gets applied for the DSO calcualtion. It just matters what the A/R is at the end of June.
+NOTE: it does not matter what invoices the $500 got applied to or even if it gets applied for the DSO calculation. It just matters what the A/R is at the end of June.
 
 Their accounts receivable at the end of June would be $1200. The DSO for the month of June would be $1200/$1000 X 30 (# of days in June) = 36.
 A 36 day average to get paid is not to bad. Generally speaking, if your DSO is under 40 (assuming Net 30 day credit terms) you are fairly efficient at collecting your money.

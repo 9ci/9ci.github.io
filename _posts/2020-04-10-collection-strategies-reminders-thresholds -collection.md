@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collection Strategies – One Size Does Not Fit All
+title: Collection Strategies One Size Does Not Fit All
 date: 2020-4-10
 author: John Kuhn
 tags: collection-calculation ai

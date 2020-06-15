@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Intelligent Auto Cash Application
+title: Get Paid Faster Intelligent Auto Cash Application
 slug: autocash
 weight: 1
 summary: |

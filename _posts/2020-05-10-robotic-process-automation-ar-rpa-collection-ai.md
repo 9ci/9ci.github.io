@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RPA - Robotic Process Automation
+title: RPA - Robotic Process Automation in Accounts Receivables
 date: 2020-05-10
 author: John Kuhn
 tags: ai collection

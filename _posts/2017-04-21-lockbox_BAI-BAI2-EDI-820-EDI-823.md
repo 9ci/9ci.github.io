@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autocash Lockbox Processing, bank file formats BAI and EDI 
+title: Autocash Lockbox Processing | Bank file formats BAI and EDI 
 date: 2017-04-24
 author: 9ci Team
 tags:  autocash lockbox

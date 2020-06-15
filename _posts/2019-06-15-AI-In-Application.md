@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI In Business Application
+title: AI In Business Application | AI in AR
 date: 2019-06-15
 author: John Kuhn
 tags: ai
@@ -17,9 +17,3 @@ Up to this point, I’ve framed our discussion of AI around its most successful 
 Many business applications require much more effort and subject knowledge to configure.  Consider an accounts receivable application to predict late payments.  There is no training set of pictures with pixel patterns to associate.  Specific AR domain knowledge must be incorporated into the model to be successful.  Remember from previous discussions, today’s deep learning AI operates on statistical correlation; it has no ability to determine cause-effect.  Without the inclusion of outside domain knowledge to ensure the system is focused on information relevant to the objective, an AI might infer more significance from a customer’s zip code than its past due aging.   
 
 This leads to another question.  Where does it make sense to turn a function over to AI, and where does it make the most sense to design the AI to work with humans in a collaborative relationship?  A collaborative workspace could well be the optimal way to leverage the considerable abilities of today’s AI while safe-guarding its current limitations.  
-
- 
-
- 
-
- 
