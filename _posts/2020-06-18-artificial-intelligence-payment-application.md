@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Artificial Intelligence in Cash Application is what you need
