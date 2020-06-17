@@ -4,7 +4,7 @@ title: Artificial Intelligence in Cash Application is what you need
 date: 2020-06-18
 author: Joanna Dabal
 tags: ai autocash
-summary: AI Challenges for AR
+summary: Artificial Intelligence in Cash Application to improve hit rate, OCR engine using deep learning and neural network models.
 description: Artificial Intelligence in Cash Application to improve hit rate, OCR engine using deep learning and neural network models.
 image: "/assets/img/blog/ai_in_cash_apply.jpg"
 featured_image: "/blog/ai_in_cash_apply.jpg"
@@ -13,7 +13,7 @@ featured_image_height: "100px"
 featured_image_width: "200px"
 ---
 
-There are lot of automatic cash application softwares on the market. They apply payments very fast and advertise that human user is not necessary any more. How does it look like in reality? Customer Service has lot of work answering customers' complains that payment was not applied properly. Short payments and deductions are created without reason codes and will be a headache for deduction analysts and on account credits might never be applied.
+There are lot of automatic cash application softwares on the market. They apply payments very fast and advertise that users are not necessary any more. How does it look like in the reality? Payment reversals and misapplications. Customer Service has lot of work answering customers' complains that payment was not applied properly. Short payments and deductions are created without reason codes and will be a headache for deduction analysts and on account credits might never be applied.
 
 This is not the system that will help your company. What you need is an Intelligent Cash Application with the power of Artificial Intelligence.
 
