@@ -1,0 +1,15 @@
+{% assign logo = '/assets/img/logo.png' %}
+{% assign org = site.data.org %}
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ org.name }}",
+    "url": "{{ site.url }}",
+    "potentialAction": {
+      "@type":"SearchAction",
+      "target":"https://www.9ci.com/search?q={search_term_string}",
+      "query-input":"required name=search_term_string"
+    }
+  }
+</script>

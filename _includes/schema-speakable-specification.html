@@ -1,0 +1,38 @@
+{% assign logo = '/assets/img/logo.png' %}
+{% assign org = site.data.org %}
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ org.name }}",
+    "url": "{{ site.url }}",
+    "speakable":
+    {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+        "/html/head/title",
+       "/html/head/meta[@name='description']/@content"
+       ]
+     }
+  }
+</script>
+
+
+<script type="application/ld+json">
+  {
+   "@context": "https://schema.org/",
+   "@type": "WebPage",
+   "name": "9ci - Solutions for your Accounts Receivable Problems",
+   "speakable":
+   {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+       "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+      ]
+    },
+   "url": "https://www.9ci.com/"
+   }
+  </script>
+  
+  
