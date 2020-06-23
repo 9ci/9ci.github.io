@@ -1,8 +1,11 @@
 ---
 layout: product
-title: Get Paid Faster Intelligent Auto Cash Application
+class: product
+title: Auto Cash Application (AR) Software
 slug: autocash
+permalink: /solutions/auto-cash-cash-application/
 weight: 1
+description: Our Auto Cash Application Software integrates tightly with Accounts Receivable (A/R) systems & enables organizations to automatically apply over 90% of cash receipts.
 summary: |
   Cash Application So Smart, It's Almost Scary. <br>
   Apply cash in minutes, not days, with intelligent import of bank data & images. Intelligent payment matching. Automated cash application. Automated & intelligent payment correction.
@@ -58,7 +61,7 @@ Auto Cash/Cash Application allows companies to simplify their daily cash process
 * Automatically replace incorrect invoice numbers via matching algorithms.
 * Automatically insert customer number and other coding required by A/R systems.
 * Capture deduction details, translate customer’s reason codes to your codes, capture descriptions and quantities.
-* Automatically create accounting entries: (i.e., debit memos for deductions and credit memos for overpayments or on-account transactions).
+* Automatically create accounting entries: (i.e., debit memos for deductions and credit memos for overpayment or on-account transactions).
 * Automate Credit Memo – Debit Memo matching and netting.
 * Reduce reliance on IT for daily and monthly issues.
 * Provides segregation of duties and a clear audit trail to aid in Sarbanes-Oxley and other compliance efforts.

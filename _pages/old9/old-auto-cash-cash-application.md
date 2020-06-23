@@ -3,7 +3,7 @@ layout: product
 class: product
 title: Intelligent Cash Application
 slug: autocash
-permalink: /solutions/auto-cash-cash-application/
+permalink: /solutions/autocash/
 weight: 1
 summary: |
   Cash Application So Smart, It's Almost Scary. <br>
@@ -60,4 +60,4 @@ Auto Cash/Cash Application allows companies to simplify their daily cash process
 * Reduce reliance on IT for daily and monthly issues.
 * Provides segregation of duties and a clear audit trail to aid in Sarbanes-Oxley and other compliance efforts.
 * Provide reporting, analysis and ad-hoc query tools to monitor your key business metrics.
-* Set and maintain standardized, predefined rules to keep the A/R clean and clear
+* Set and maintain standardized, predefined rules to keep the A/R clean and clear.
