@@ -1,9 +1,9 @@
 ---
 layout: product
 class: product
-title: Auto Cash Application (AR) Software
+title: Intelligent Auto Cash Application
 slug: autocash
-permalink: /solutions/auto-cash-cash-application/
+permalink: /solutions/auto-cash-application-software/
 weight: 1
 description: Our Auto Cash Application Software integrates tightly with Accounts Receivable (A/R) systems & enables organizations to automatically apply over 90% of cash receipts.
 summary: |
