@@ -4,7 +4,9 @@
   {% include head.html %}
 
   <body{% if page.class %} class="{{ page.class | prepend: 'page--'  }}"{% else %} class="{{ page.layout | prepend: 'page--' }}"{% endif %}>
-    {% include regions/header.html %}
+    <!-- Google Tag Manager -->
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M26LTFR" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  {% include regions/header.html %}
 
     <div class="page-content">
       {{ content }}
