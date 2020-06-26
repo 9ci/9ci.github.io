@@ -33,8 +33,6 @@ The closer your DSO is to the Best Possible DSO, the closer you are to collectin
 
 ```Best Possible DSO = (Current Receivables x Number of Days in Period ) / Credit Sales for Period```
 
-(for a definition of credit sales see [this post](/2017-04-24-dso-calculation-days-sales-outstanding.md){:target="_blank"}.
-
 ### Average Days Delinquent (ADD)
 Average Days Delinquent (ADD), which is sometimes called Delinquent DSO, calculates the average time from the due date to the paid date. In other words its the average days invoices are past due. It provides a snapshot to evaluate the overall company’s collection performance but it’s also useful at the customer, customer type, collector segment, etc.. This not the same as Average Days To Pay which is based on the historical information of the actual closed invoice while ADD is based on a snapshot in time (Thanks [Terry](http://crfonline.org){:target="_blank"}.)
 
