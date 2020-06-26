@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI in AR. Can You Trust It? What AI is and isn't.
+title: AI in AR | Can You Trust It? What AI is and isn't.
 date: 2018-04-24
 author: John Kuhn
 tags:  ai
