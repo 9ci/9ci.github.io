@@ -13,6 +13,8 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+Sitemap: http://www.9ci.com/sitemap.xml
+
 User-agent: *
 # CSS, JS, Images
 Allow: /articles/*.css$
