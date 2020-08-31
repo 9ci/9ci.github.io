@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shortpays – Partial pay or create a deduction?
-date: 2020-09-02
+date: 2020-08-02
 author: John Kuhn
 tags:  deduction-management
 summary: Partial paying the original invoice or closing the original transaction and creating a deduction with reason code (tax, freight, compliance penalty)
