@@ -11,8 +11,6 @@
   name: Autocash
 - slug: lockbox
   name: Lockbox
-- slug: cashapply
-  name: CashApply
 - slug: ar-dashboard
   name: AR Dashboard
 - slug: collection-calculation
