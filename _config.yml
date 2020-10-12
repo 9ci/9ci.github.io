@@ -45,7 +45,7 @@ permalink: /articles/:title
 collections:
   team:
     output: true
-    permalink: /company/:path/
+    permalink: /company/9citeam/:path/
   case-studies:
     output: true
     permalink: /results/case-studies/:path/
