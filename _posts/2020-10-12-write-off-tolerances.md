@@ -12,7 +12,7 @@ featured_image_height: "100px"
 featured_image_width: "200px"
 ---
 
-In my previous blog on discounting, I noted the need for any modern AR system to have a robust tolerance handling facility.  Here we will examine exactly what that’s important. 
+In my previous blog on discounting, I noted the need for any modern AR system to have a robust tolerance handling facility.  Here we will examine exactly why that’s important. 
 
 Attempting to collect short-pays is a frustrating business.  A few can be collected just by asking persistently; but many won’t be collected no matter what you do.  And before they’re resolved, they just clog up and confuse your normal AR.  The trick to far less headaches and wasted effort is to immediately and automatically write-off as much as you can that you know will not be worth the investment of your time.  Here are the capabilities your AR system needs to have to help: 
 
