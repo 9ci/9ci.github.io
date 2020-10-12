@@ -3,7 +3,7 @@ layout: post
 title: Write-off Tolerances
 date: 2020-10-12
 author: John Kuhn
-tags:  deduction-management, autocash
+tags:  deduction-management
 summary: Automatic write-off within tolerance by reason code and customer class
 image: "/assets/img/blog/writeofftolerance.jpg"
 featured_image: "/blog/writeofftolerance.jpg"
