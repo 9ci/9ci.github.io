@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lockbox Payment Check Image | How To Manage Them in Cash Application
+title: Lockbox Payment Check Image
 date: 2020-4-16
 author: John Kuhn
 tags: autocash
