@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EDI 856 – Advance Ship Notice (ASN) Labels – Part 2
-date: 2021-01-09
+date: 2021-01-18
 author: John Kuhn
 tags:  best-practices
 summary: EDI 856 – Advance Ship Notice (ASN) Labels – Part 2
