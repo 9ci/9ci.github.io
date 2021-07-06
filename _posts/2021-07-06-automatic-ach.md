@@ -4,7 +4,7 @@ title: Automatic ACH - Part 1 – COD orders
 date: 2021-07--6
 author: John Kuhn
 tags:  best-practices
-summary: Receive emails with attachments as remittance 
+summary: ACH’s can also be used on demand to greatly simplify COD orders.
 image: "/assets/img/blog/automatic-ach.jpg"
 featured_image: "/blog/automatic-ach.jpg"
 featured_image_alt: "automatic-ach"
