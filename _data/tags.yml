@@ -23,5 +23,7 @@
   name: Payment Processing
 - slug: performance
   name: Performance
+- slug: security
+  name: Security
 - slug: deduction-management
   name: Deduction Management
