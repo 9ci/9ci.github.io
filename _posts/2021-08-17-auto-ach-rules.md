@@ -7,7 +7,7 @@ tags:  best-practices
 summary: Rules on auto ach - What invoices to select for the ACH and when to initiate the payment
 image: "/assets/img/blog/ach-auto-rules.jpg"
 featured_image: "/blog/ach-auto-rules.jpg"
-featured_image_alt: "automatic-ach"
+featured_image_alt: "automatic-ach-rules"
 featured_image_height: "100px"
 featured_image_width: "200px"
 ---
