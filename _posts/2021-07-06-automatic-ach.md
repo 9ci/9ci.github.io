@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatic ACH - Part 1 – COD orders
-date: 2021-07--6
+date: 2021-07-06
 author: John Kuhn
 tags:  best-practices
 summary: ACH’s can also be used on demand to greatly simplify COD orders.
