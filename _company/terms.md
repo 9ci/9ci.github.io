@@ -1,7 +1,7 @@
 ---
 layout: service
-title: Development
-slug: development
+title: Terms
+slug: terms
 weight: 2
 summary: |
   TODO.
