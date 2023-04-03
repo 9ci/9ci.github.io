@@ -43,7 +43,7 @@ permalink: /articles/:title
 
 # Collections
 collections:
-  team:
+  company:
     output: true
     permalink: /company/:path/
   case-studies:
