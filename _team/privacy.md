@@ -10,7 +10,7 @@ quote_project: "Privacy"
 ---
 9ci Inc Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a payment utilizing greenbill.io or greenbill.com (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a payment utilizing 9ci.com, greenbill.io or greenbill.com (the “Site”).
 
 PERSONAL INFORMATION WE COLLECT
 
