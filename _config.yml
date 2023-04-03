@@ -46,6 +46,9 @@ collections:
   company:
     output: true
     permalink: /company/:path/
+  team:
+    output: true
+    permalink: /team/:path/
   case-studies:
     output: true
     permalink: /results/case-studies/:path/
