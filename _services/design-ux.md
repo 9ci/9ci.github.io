@@ -13,5 +13,7 @@ services: [User Experience Strategy, Concepting & Ideation, Wireframing & Protot
 
 ---
 
+WIP
+
 Through rapid prototyping with the best modern tools, our design process is iterative and translates efficiently to the final product. By developing a deep understanding of the goals of our partners and their audiences, we craft flexible, usable, future-considerate responsive designs that empower content editors, are fit for all devices, and are a pleasure to use.
 
