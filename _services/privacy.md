@@ -35,7 +35,7 @@ We use the Device Information that we collect to also help us screen for potenti
 
 SHARING YOUR PERSONAL INFORMATION
 
-We may use third-parties to implement and operate the Site, but beyond this, we do not share your Personal Information with any third parties.
+We may use third-parties to implement and operate the services (such as sending emails) for the Site, but beyond this, we do not share your Personal Information with any third parties.
 
 However, we may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
