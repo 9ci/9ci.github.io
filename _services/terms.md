@@ -1,15 +1,11 @@
 ---
-layout: service
+layout: page
 title: Terms
 slug: terms
 weight: 2
 summary: |
-  TODO.
-icon: "development-icon.svg"
-vertical_image: "/assets/img/services/development-hero.jpg"
-vertical_image_alt: "TODO"
-quote_project: "TODO"
-services: [Grails]
+  Terms.
+quote_project: "Terms"
 
 ---
 
@@ -19,7 +15,7 @@ TERMS OF SERVICE
 
 OVERVIEW
 
-This website is operated by 9ci. Throughout the site, the terms “we”, “us” and “our” refer to 9ci. 9ci offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+9ci.com, grenbill.io and greenbill.com are operated by 9ci. Throughout the site, the terms “we”, “us” and “our” refer to 9ci. 9ci offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
 By visiting our site and/ or using our application, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply  to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
 Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any Services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.
@@ -145,7 +141,7 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 CONTACT INFORMATION
 
-Questions about the Terms of Service should be sent to us at info@9ci.com.
+Questions about the Terms of Service should be sent to us at connection@9ci.com.
 
-Our contact information is posted below:
+Also see our contact information is posted at the bottom of this page
 
