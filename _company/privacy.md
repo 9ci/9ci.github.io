@@ -66,6 +66,6 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 CONTACT US
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at josh2@9ci.com or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at connection@9ci.com or by mail using the details provided below:
 
-  1658 N Milwaukee Ave, suite 213, Chicago, IL, 60647, United States
+  8745 W Higgins Rd Suite 110, Chicago, IL 60631, United States
